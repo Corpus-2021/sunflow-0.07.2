@@ -1,0 +1,30 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/org/.*
+- ./bin/org/sunflow/.*
+- ./bin/org/sunflow/core/.*
+- ./bin/org/sunflow/core/accel/.*
+- ./bin/org/sunflow/core/bucket/.*
+- ./bin/org/sunflow/core/camera/.*
+- ./bin/org/sunflow/core/display/.*
+- ./bin/org/sunflow/core/filter/.*
+- ./bin/org/sunflow/core/gi/.*
+- ./bin/org/sunflow/core/light/.*
+- ./bin/org/sunflow/core/modifiers/.*
+- ./bin/org/sunflow/core/parser/.*
+- ./bin/org/sunflow/core/photonmap/.*
+- ./bin/org/sunflow/core/primitive/.*
+- ./bin/org/sunflow/core/renderer/.*
+- ./bin/org/sunflow/core/shader/.*
+- ./bin/org/sunflow/core/tesselatable/.*
+- ./bin/org/sunflow/image/.*
+- ./bin/org/sunflow/math/.*
+- ./bin/org/sunflow/system/.*
+- ./bin/org/sunflow/system/ui/.*
+- ./bin/org/sunflow/util/.*
+- ./exporters/.*
+- ./exporters/blender/.*
+- ./exporters/maya/.*
